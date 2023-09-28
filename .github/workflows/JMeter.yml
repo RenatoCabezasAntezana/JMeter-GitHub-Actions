@@ -10,7 +10,7 @@ on:
   pull_request:
     branches:  "main" 
   schedule:
-    - cron: '*/3 * * * *' # Ejecutar cada 3 minutos
+    - cron: '*/10 * * * *' # Ejecutar cada 3 minutos
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
