@@ -35,4 +35,5 @@ jobs:
         with:
           # jmeter test plan to execute
            test-plan-path: './PlanPruebasJMeterDynatrace.jmx'
+           outputReportsFolder: 'other_reports/'
       
