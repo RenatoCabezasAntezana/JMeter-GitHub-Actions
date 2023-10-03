@@ -46,6 +46,6 @@ jobs:
         with:
          api-key: ${{'48e2829b-f805-482f-9dff-56fe897b1266'}}
          file: result.jtl
-         label: Checkout Flow Automated Test Plan
+         label: Reporte plan de pruebas Reserva de Vuelo
          format: jmeter
       
